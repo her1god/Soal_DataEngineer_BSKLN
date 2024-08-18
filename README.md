@@ -1,13 +1,13 @@
 ## File SQL
 
-Untuk mengunduh file SQL, klik [di sini](https://raw.githubusercontent.com/username/repository/branch/your_file.sql).
+Untuk mengunduh file SQL, klik [di sini](https://raw.githubusercontent.com/her1god/Soal_DataEngineer_BSKLN/main/database/soal_data.sql).
 
 ### Contoh Penggunaan
 
 ```python
 import requests
 
-url = 'https://raw.githubusercontent.com/username/repository/branch/your_file.sql'
+url = 'https://raw.githubusercontent.com/her1god/Soal_DataEngineer_BSKLN/main/database/soal_data.sql'
 response = requests.get(url)
 
 with open('your_file.sql', 'wb') as file:
