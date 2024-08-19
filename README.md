@@ -19,6 +19,9 @@ with open('your_file.sql', 'wb') as file:
 Untuk menginstal semua dependensi proyek ini, jalankan perintah berikut:
 
 ```bash
+python3 -m venv venv
+source venv/bin/activate (linux/mac)
+venv\Scripts\activate (windows)
 pip install -r requirements.txt
 ```
 
