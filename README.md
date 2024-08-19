@@ -1,6 +1,6 @@
 ## File SQL
 
-Untuk mengunduh file SQL, klik [di sini](https://raw.githubusercontent.com/her1god/Soal_DataEngineer_BSKLN/main/database/soal_data.sql).
+Untuk mengunduh file SQL, klik [di sini](https://raw.githubusercontent.com/her1god/Soal_DataEngineer_BSKLN/main/data.sql).
 
 ### Contoh Penggunaan
 
