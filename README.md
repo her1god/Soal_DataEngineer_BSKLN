@@ -13,6 +13,7 @@ response = requests.get(url)
 with open('your_file.sql', 'wb') as file:
     file.write(response.content)
 
+'''
 ## Instalasi
 
 Untuk menginstal semua dependensi proyek ini, jalankan perintah berikut:
